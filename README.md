@@ -68,7 +68,7 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ## Authors ✍️
 
-I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+ I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
 See [github's contributors page](https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/contributors) for details.
 
